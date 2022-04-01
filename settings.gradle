@@ -1,0 +1,5 @@
+rootProject.name = 'Gradel_HW'
+include 'db'
+include 'api'
+include 'service'
+
